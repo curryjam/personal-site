@@ -18,7 +18,7 @@ import NotFound from './views/NotFound';
 import './static/css/main.scss';
 
 ReactDOM.render(
-  <Router basename={process.env.PUBLIC_URL}>
+  <Router basename={BASE_PATH}>
     <Switch>
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
