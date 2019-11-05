@@ -15,7 +15,7 @@ Tested with:
 
     ```bash
     git clone git://github.com/curryjam/personal-site.git
-    cd personal-website
+    cd personal-site
     npm install
     ```
 
@@ -54,7 +54,7 @@ Tested with:
 8. Configure your domains DNS record. See [here]( https://help.github.com/articles/using-a-custom-domain-with-github-pages/) for more information.
 9. If using a custom url, modify the `CNAME` file to point to your URL. Modify the npm deploy script by appending `&& cp CNAME dist/` to the end of the `predeploy` line in the scripts section of package.json.
 If you plan to deploy to a /[path]
-(e.g. [https://curryjam.github.io/personal-website/](https://curryjam.github.io/personal-site/)), you should modify `BASE_PATH` in your `.env` and `sample.env` files and restart the express server. Note that you will now have to navigate to `localhost:[port]/[BASE_PATH]` when developing.
+(e.g. [https://curryjam.github.io/personal-site/](https://curryjam.github.io/personal-site/)), you should modify `BASE_PATH` in your `.env` and `sample.env` files and restart the express server. Note that you will now have to navigate to `localhost:[port]/[BASE_PATH]` when developing.
 
 ## Deploying to Github Pages
 
