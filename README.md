@@ -27,7 +27,7 @@ Tested with:
     cp sample.env .env
     ```
 
-    and set values as appropriate. Most people will not need to make changes.
+    and set values as appropriate. 
 
 3. Run the following command to build the react application and serve it with hot module reloading:
 
