@@ -1,15 +1,6 @@
 
 const positions = [
   {
-    company: 'Robokids Canada',
-    position: 'Instructor - Part Time',
-    link: 'https://www.robokids.io/',
-    daterange: 'October 2015 - Present',
-    points: [
-      'Organize and manage a class of elementary school students by guiding them on their advanced Lego robotics projects',
-      'Demonstrated leadership and mentoring skills through concise support and advice in the project-building process'
-    ],
-  }, {
     company: 'FanDine Technologies',
     position: 'Front End Developer',
     link: 'https://www.fandine.com/',
@@ -35,6 +26,15 @@ const positions = [
     points: [
       'Procured test plans for manual testing and developed automated test suites with Python via Selenium for energy efficiency web applications',
       'Grasped and leveraged the Agile development methodology to efficiently build suites and test features',
+    ],
+  }, {
+    company: 'Robokids Canada',
+    position: 'Instructor - Part Time',
+    link: 'https://www.robokids.io/',
+    daterange: 'October 2015 - Present',
+    points: [
+      'Organize and manage a class of elementary school students by guiding them on their advanced Lego robotics projects',
+      'Demonstrated leadership and mentoring skills through concise support and advice in the project-building process'
     ],
   }
 ];

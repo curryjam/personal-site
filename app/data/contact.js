@@ -15,7 +15,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/james-kurniawan-81048a192/',
+    link: 'https://www.linkedin.com/in/james-kurniawan/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
