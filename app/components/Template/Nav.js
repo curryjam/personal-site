@@ -20,7 +20,7 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m James.
-            I like making things and exploring things. I am a UBC Computer Science and Physics graduate who is embarking on a journey to find his career in the world of software.
+            I like making things and exploring things too. I am a computer scientist currently on a journey to find my career in the world of software.
       </p>
     </section>
 

@@ -1,6 +1,17 @@
 
 const positions = [
   {
+    company: 'Marine Learning Systems',
+    position: 'QA Engineer',
+    link: 'https://www.marinels.com/',
+    daterange: 'December 2019 - Present',
+    points: [
+      'Continuously add to and improve the automated test suite covering many features of the learning management system using Python',
+      'Investigate potential bugs in the application that arise by debugging the C# source code and verifying data in SQL tables',
+      'Verify bug fixes and new features by manually executing scenarios that stretch their functionalities'
+    ],
+  },
+  {
     company: 'FanDine Technologies',
     position: 'Front End Developer',
     link: 'https://www.fandine.com/',

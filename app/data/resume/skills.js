@@ -57,7 +57,7 @@ export const skills = [
   },
   {
     title: 'SQL',
-    compentency: 2,
+    compentency: 4,
     category: ['Databases'],
   },
   {
@@ -150,7 +150,7 @@ export const skills = [
   },
   {
     title: 'C#',
-    compentency: 2,
+    compentency: 5,
     category: ['Languages'],
 
   },
